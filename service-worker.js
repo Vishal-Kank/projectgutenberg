@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/projectgutenberg/precache-manifest.3fe8bf76c61afc9b4ec674c4de64f4af.js"
+  "/projectgutenberg/precache-manifest.7ab7b11c5c12f6db74e7cbfd163e8dcb.js"
 );
 
 self.addEventListener('message', (event) => {
