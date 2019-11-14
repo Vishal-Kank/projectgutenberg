@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import store from './store';
+import { Provider } from 'react-redux';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Fiction from './components/category/Fiction';
+import Drama from './components/category/Drama';
+import Humor from './components/category/Humor';
+import History from './components/category/History';
+import Philosophy from './components/category/Philosophy';
+import Politics from './components/category/Politics';
+import Adventure from './components/category/Adventure';
+import BookCategory from './components/BookCategory';
+
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+
+class App extends Component {
+  render() {
+    return (
+      <Provider store={store}>
+
+        <Router basename={process.env.PUBLIC_URL}>
+          <Switch>
+            <Route path="/" exact component={BookCategory} />
+            <Route path="/Fiction" component={Fiction} />
+            <Route path="/Drama" component={Drama} />
+            <Route path="/Humor" component={Humor} />
+            <Route path="/Politics" component={Politics} />
+            <Route path="/Philosophy" component={Philosophy} />
+            <Route path="/History" component={History} />
+            <Route path="/Adventure" component={Adventure} />
+          </Switch>
+        </Router>
+
+      </Provider>
+    );
+
+  }
 }
-
 export default App;
