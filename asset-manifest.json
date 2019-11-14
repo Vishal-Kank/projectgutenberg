@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/projectgutenberg/static/css/main.b100e6da.chunk.css",
-    "main.js": "/projectgutenberg/static/js/main.f10d4562.chunk.js",
-    "main.js.map": "/projectgutenberg/static/js/main.f10d4562.chunk.js.map",
+    "main.css": "/projectgutenberg/static/css/main.7c164586.chunk.css",
+    "main.js": "/projectgutenberg/static/js/main.a5c43414.chunk.js",
+    "main.js.map": "/projectgutenberg/static/js/main.a5c43414.chunk.js.map",
     "runtime-main.js": "/projectgutenberg/static/js/runtime-main.83375564.js",
     "runtime-main.js.map": "/projectgutenberg/static/js/runtime-main.83375564.js.map",
     "static/js/2.0055377f.chunk.js": "/projectgutenberg/static/js/2.0055377f.chunk.js",
     "static/js/2.0055377f.chunk.js.map": "/projectgutenberg/static/js/2.0055377f.chunk.js.map",
     "index.html": "/projectgutenberg/index.html",
-    "precache-manifest.7ab7b11c5c12f6db74e7cbfd163e8dcb.js": "/projectgutenberg/precache-manifest.7ab7b11c5c12f6db74e7cbfd163e8dcb.js",
+    "precache-manifest.83931415640286387d3bb0465ce32c84.js": "/projectgutenberg/precache-manifest.83931415640286387d3bb0465ce32c84.js",
     "service-worker.js": "/projectgutenberg/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/projectgutenberg/static/css/main.b100e6da.chunk.css.map"
+    "static/css/main.7c164586.chunk.css.map": "/projectgutenberg/static/css/main.7c164586.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.83375564.js",
     "static/js/2.0055377f.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.f10d4562.chunk.js"
+    "static/css/main.7c164586.chunk.css",
+    "static/js/main.a5c43414.chunk.js"
   ]
 }
