@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/projectgutenberg/static/css/main.7c164586.chunk.css",
-    "main.js": "/projectgutenberg/static/js/main.51062d8a.chunk.js",
-    "main.js.map": "/projectgutenberg/static/js/main.51062d8a.chunk.js.map",
+    "main.css": "/projectgutenberg/static/css/main.e3294ac7.chunk.css",
+    "main.js": "/projectgutenberg/static/js/main.0c1c2ff1.chunk.js",
+    "main.js.map": "/projectgutenberg/static/js/main.0c1c2ff1.chunk.js.map",
     "runtime-main.js": "/projectgutenberg/static/js/runtime-main.83375564.js",
     "runtime-main.js.map": "/projectgutenberg/static/js/runtime-main.83375564.js.map",
-    "static/js/2.0055377f.chunk.js": "/projectgutenberg/static/js/2.0055377f.chunk.js",
-    "static/js/2.0055377f.chunk.js.map": "/projectgutenberg/static/js/2.0055377f.chunk.js.map",
+    "static/js/2.d9fa4b0e.chunk.js": "/projectgutenberg/static/js/2.d9fa4b0e.chunk.js",
+    "static/js/2.d9fa4b0e.chunk.js.map": "/projectgutenberg/static/js/2.d9fa4b0e.chunk.js.map",
     "index.html": "/projectgutenberg/index.html",
-    "precache-manifest.8fd44f6cef33acd1e91ff34f058afe2e.js": "/projectgutenberg/precache-manifest.8fd44f6cef33acd1e91ff34f058afe2e.js",
+    "precache-manifest.549993cd2d4231eed37bd21d287d32a7.js": "/projectgutenberg/precache-manifest.549993cd2d4231eed37bd21d287d32a7.js",
     "service-worker.js": "/projectgutenberg/service-worker.js",
-    "static/css/main.7c164586.chunk.css.map": "/projectgutenberg/static/css/main.7c164586.chunk.css.map"
+    "static/css/main.e3294ac7.chunk.css.map": "/projectgutenberg/static/css/main.e3294ac7.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.83375564.js",
-    "static/js/2.0055377f.chunk.js",
-    "static/css/main.7c164586.chunk.css",
-    "static/js/main.51062d8a.chunk.js"
+    "static/js/2.d9fa4b0e.chunk.js",
+    "static/css/main.e3294ac7.chunk.css",
+    "static/js/main.0c1c2ff1.chunk.js"
   ]
 }
