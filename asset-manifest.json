@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projectgutenberg/static/css/main.b100e6da.chunk.css",
+    "main.js": "/projectgutenberg/static/js/main.85ae3dbf.chunk.js",
+    "main.js.map": "/projectgutenberg/static/js/main.85ae3dbf.chunk.js.map",
+    "runtime-main.js": "/projectgutenberg/static/js/runtime-main.83375564.js",
+    "runtime-main.js.map": "/projectgutenberg/static/js/runtime-main.83375564.js.map",
+    "static/js/2.c147a147.chunk.js": "/projectgutenberg/static/js/2.c147a147.chunk.js",
+    "static/js/2.c147a147.chunk.js.map": "/projectgutenberg/static/js/2.c147a147.chunk.js.map",
+    "index.html": "/projectgutenberg/index.html",
+    "precache-manifest.78f53fcdf73c018250909e4a2908f913.js": "/projectgutenberg/precache-manifest.78f53fcdf73c018250909e4a2908f913.js",
+    "service-worker.js": "/projectgutenberg/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/projectgutenberg/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/projectgutenberg/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83375564.js",
+    "static/js/2.c147a147.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.85ae3dbf.chunk.js"
+  ]
+}
